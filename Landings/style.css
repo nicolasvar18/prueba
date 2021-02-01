@@ -1,0 +1,27 @@
+
+body{
+    background: url(images/fond.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+.centrado{
+    margin: 200px auto 50px;
+    display: block;
+    
+}
+
+
+.boton1{
+    margin-right: 2%;
+}
+.boton2{
+    margin-left: 3%;
+}
+.boton3{
+    float: right !important;
+    margin: -200px auto -50px;
+    display: block;
+}
